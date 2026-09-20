@@ -4,6 +4,7 @@ To simulate a Hartley Oscillator and to obtain the output.
 ## APPARATUS REQUIRED:
 PC with LT Spice software
 ## CIRCUIT DIAGRAM:
+<img width="1128" height="1555" alt="WhatsApp Image 2026-09-20 at 7 03 17 PM (2)" src="https://github.com/user-attachments/assets/dce61e45-2572-4454-9c78-1622808e72dc" />
 
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
@@ -41,5 +42,7 @@ PC with LT Spice software
 34.	## THEORITICAL CALCULATION:
 35.	
 37.	## OUTPUTS:
-38.	
+38.	<img width="1880" height="798" alt="Screenshot 2026-09-11 120417" src="https://github.com/user-attachments/assets/40945c18-7740-4b17-bb23-94be918cf722" />
+
 40.	## RESULT:
+<img width="1600" height="699" alt="WhatsApp Image 2026-09-20 at 7 03 18 PM" src="https://github.com/user-attachments/assets/161a6262-7a75-4225-97e8-4bd8b641d823" />
